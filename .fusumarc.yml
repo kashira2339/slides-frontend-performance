@@ -1,9 +1,9 @@
 meta:
-  title: 
+  title: frontend-performance
   author: Taka
-  description: 
+  description:
   thumbnail: https://avatars3.githubusercontent.com/u/7392701?s=460&v=4
-  repositoryUrl: 
+  repositoryUrl:
   sns: ["twitter"]
 slide:
   loop: false
