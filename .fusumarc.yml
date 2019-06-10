@@ -1,0 +1,21 @@
+meta:
+  title: 
+  author: Taka
+  description: 
+  thumbnail: https://avatars3.githubusercontent.com/u/7392701?s=460&v=4
+  repositoryUrl: 
+  sns: ["twitter"]
+slide:
+  loop: false
+  sidebar: true
+  targetBlank: true
+  showIndex: false
+  code:
+    languages:
+      - javascript
+      - typescript
+      - json
+    plugins: []
+extends:
+  js:
+  css:

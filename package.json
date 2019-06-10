@@ -1,0 +1,28 @@
+{
+  "name": "slides-hello-hooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "fusuma": "^1.1.0"
+  },
+  "scripts": {
+    "pdf": "npm run build && fusuma pdf",
+    "start": "fusuma start",
+    "build": "fusuma build",
+    "deploy": "npm run build && fusuma deploy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kashira2339/slides-hello-hooks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kashira2339/slides-hello-hooks/issues"
+  },
+  "homepage": "https://github.com/kashira2339/slides-hello-hooks#readme"
+}
