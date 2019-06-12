@@ -1,4 +1,4 @@
-## 3. gzip圧縮をoffにする
+## 3. gzip 圧縮を off にする
 
 <br/>
 
@@ -8,4 +8,4 @@
 
 ---
 
-<img src="../assets/score-3.png" width="640" />
+![](../assets/score-3.png)

@@ -1,4 +1,4 @@
-## 1. ServiceWorkerをオフにする
+## 1. ServiceWorker をオフにする
 
 <br/>
 
@@ -15,4 +15,4 @@
 
 ---
 
-<img src="../assets/score-1.png" width="640" />
+![](../assets/score-1.png)

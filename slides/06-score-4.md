@@ -1,4 +1,4 @@
-## 4. ComponentのLazy loadでのCode splittingをoffにする
+## 4. Component の Lazy load での Code splitting を off にする
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 ---
 
-<img src="../assets/score-4.png" width="640" />
+![](../assets/score-4.png)
 
 ---
 

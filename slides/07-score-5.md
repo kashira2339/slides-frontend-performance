@@ -1,4 +1,4 @@
-## 5. コード圧縮をoffにする
+## 5. コード圧縮を off にする
 
 <br/>
 
@@ -8,4 +8,4 @@
 
 ---
 
-<img src="../assets/score-5.png" width="640" />
+![](../assets/score-5.png)

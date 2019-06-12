@@ -1,4 +1,3 @@
-
 ## Lighthouse
 
 <img src="../assets/devtool.png" width="480" />
@@ -8,18 +7,14 @@ Googleが提供する、パフォーマンスに関するレポートを生成�
 
 ---
 
-## とあるWEBサービス
-
-<br/>
+## とある WEB サービス
 
 - 一部のユーザー向け
 - 管理画面を提供
 - React + Apollo
 
-
 ---
 
 ## 現状
-<br/>
 
 ![](../assets/now-score.png)

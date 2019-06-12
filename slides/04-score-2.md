@@ -1,4 +1,4 @@
-## 2. Cache-Controlをオフにする
+## 2. Cache-Control をオフにする
 
 <br/>
 
@@ -8,4 +8,4 @@
 
 ---
 
-<img src="../assets/score-2.png" width="640" />
+![](../assets/score-2.png)

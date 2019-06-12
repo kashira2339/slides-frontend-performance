@@ -18,4 +18,4 @@ slide:
     plugins: []
 extends:
   js:
-  css:
+  css: style.css
