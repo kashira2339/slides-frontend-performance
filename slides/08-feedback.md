@@ -1,4 +1,6 @@
-# ついに達成！！！
+# 0 点達成！！！
+
+<img src="../assets/banzai_business.png" width="360"/>
 
 ---
 

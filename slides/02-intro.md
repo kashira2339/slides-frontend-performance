@@ -1,9 +1,8 @@
 ## Lighthouse
 
 <img src="../assets/devtool.png" width="480" />
-<br/>
 Googleが提供する、パフォーマンスに関するレポートを生成するツール。<br/>
-現在はChrome拡張Devtoolからも利用可能！
+現在はChrome Devtool（Auditタブ）からも利用可能！
 
 ---
 

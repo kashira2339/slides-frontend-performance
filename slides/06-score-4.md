@@ -16,4 +16,6 @@
 
 ---
 
-# ！
+### ！
+
+<img src="../assets/pistol_pose_man.png" width="240"/>

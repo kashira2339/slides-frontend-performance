@@ -90,3 +90,11 @@ body {
 .presenter-host {
   width: 70%;
 }
+
+ul {
+  padding-top: 8px;
+}
+
+li {
+  margin-bottom: 8px;
+}
